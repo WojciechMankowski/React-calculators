@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.contarner {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	/* margin-top: 25%; */
+}
+.button {
+	display: flex;
+	flex-wrap: wrap;
+	width: 50%;
+	border: solid 5px black;
+}
+.button button {
+	width: 20%;
+    margin: 10px;
+    border-radius: 180px;
+}
